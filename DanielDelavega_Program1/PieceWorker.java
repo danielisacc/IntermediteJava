@@ -42,10 +42,9 @@ public class PieceWorker extends Employee{
 	}
 	// return String representation of pieceWorker object              
    	@Override                                                             
-  	 public String toString() {                                                                     
-      		return String.format("piece worker employee: %s%n%s: $%,.2f; %s: %,.2f",
-         	super.toString(), "hourly wage", getWage(),                     
-         	"hours worked", getHours());
+  	public String toString(){
+		
+	}
 	
 	
 	
