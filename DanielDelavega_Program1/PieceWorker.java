@@ -43,7 +43,8 @@ public class PieceWorker extends Employee{
 	// return String representation of pieceWorker object              
    	@Override                                                             
   	public String toString(){
-		
+		return String.format("piece worker employee: %s%n",
+         	super.toString());
 	}
 	
 	
