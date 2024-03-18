@@ -1,0 +1,192 @@
+
+
+*********Developer Information***********
+
+
+Name:    Daniel Isacc Delavega
+
+Course:  ITSE 2317 Intermediate Java Programming
+
+Program: Five
+
+
+*****************************************
+
+
+Sorted on partDescription
+
+
+Part Description: Electric Sander
+Part Number: 83
+Part Quantity: 7
+Part Price: 57.980000
+
+Part Description: Hammer
+Part Number: 77
+Part Quantity: 76
+Part Price: 11.990000
+
+Part Description: Jig Saw
+Part Number: 56
+Part Quantity: 21
+Part Price: 11.000000
+
+Part Description: Lawn Mower
+Part Number: 39
+Part Quantity: 3
+Part Price: 79.500000
+
+Part Description: Power Saw
+Part Number: 24
+Part Quantity: 18
+Part Price: 99.990000
+
+Part Description: Screwdriver
+Part Number: 68
+Part Quantity: 106
+Part Price: 6.990000
+
+Part Description: Sledge Hammer
+Part Number: 7
+Part Quantity: 11
+Part Price: 21.500000
+
+Part Description: Wrench
+Part Number: 3
+Part Quantity: 34
+Part Price: 7.500000
+
+
+
+Sorted on pricePerItem
+
+
+Part Description: Screwdriver
+Part Number: 68
+Part Quantity: 106
+Part Price: 6.990000
+
+Part Description: Wrench
+Part Number: 3
+Part Quantity: 34
+Part Price: 7.500000
+
+Part Description: Jig Saw
+Part Number: 56
+Part Quantity: 21
+Part Price: 11.000000
+
+Part Description: Hammer
+Part Number: 77
+Part Quantity: 76
+Part Price: 11.990000
+
+Part Description: Sledge Hammer
+Part Number: 7
+Part Quantity: 11
+Part Price: 21.500000
+
+Part Description: Electric Sander
+Part Number: 83
+Part Quantity: 7
+Part Price: 57.980000
+
+Part Description: Lawn Mower
+Part Number: 39
+Part Quantity: 3
+Part Price: 79.500000
+
+Part Description: Power Saw
+Part Number: 24
+Part Quantity: 18
+Part Price: 99.990000
+
+
+
+Mapped partDescription:Quantity
+
+
+Description: Lawn Mower
+Quantity: 3
+
+Description: Electric Sander
+Quantity: 7
+
+Description: Sledge Hammer
+Quantity: 11
+
+Description: Power Saw
+Quantity: 18
+
+Description: Jig Saw
+Quantity: 21
+
+Description: Wrench
+Quantity: 34
+
+Description: Hammer
+Quantity: 76
+
+Description: Screwdriver
+Quantity: 106
+
+
+
+Mapped partDescription:Value
+
+
+Description: Jig Saw
+Value: 231.000000
+
+Description: Sledge Hammer
+Value: 236.500000
+
+Description: Lawn Mower
+Value: 238.500000
+
+Description: Wrench
+Value: 255.000000
+
+Description: Electric Sander
+Value: 405.860000
+
+Description: Screwdriver
+Value: 740.940000
+
+Description: Hammer
+Value: 911.240000
+
+Description: Power Saw
+Value: 1799.820000
+
+
+
+Mapped partDescription:Value between 200 and 500 value
+
+
+Description: Jig Saw
+Value: 231.000000
+
+Description: Sledge Hammer
+Value: 236.500000
+
+Description: Lawn Mower
+Value: 238.500000
+
+Description: Wrench
+Value: 255.000000
+
+Description: Electric Sander
+Value: 405.860000
+
+
+
+Find any one invoice in which the partDescription contains the word Saw
+
+
+Found Invoice:
+Part Description: Power Saw
+Part Number: 24
+Part Quantity: 18
+Part Price: 99.990000
+
