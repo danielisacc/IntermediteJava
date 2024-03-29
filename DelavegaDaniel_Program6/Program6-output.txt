@@ -1,0 +1,218 @@
+
+
+*********Developer Information***********
+
+
+Name:    Daniel Isacc Delavega
+
+Course:  ITSE 2317 Intermediate Java Programming
+
+Program: Five
+
+
+*****************************************
+
+Fibonacci of 0 is: 0
+   took 0.01 seconds
+   took 1 recursive calls
+
+
+Fibonacci of 1 is: 1
+   took 0.00 seconds
+   took 2 recursive calls
+
+
+Fibonacci of 2 is: 1
+   took 0.00 seconds
+   took 5 recursive calls
+
+
+Fibonacci of 3 is: 2
+   took 0.00 seconds
+   took 10 recursive calls
+
+
+Fibonacci of 4 is: 3
+   took 0.00 seconds
+   took 19 recursive calls
+
+
+Fibonacci of 5 is: 5
+   took 0.00 seconds
+   took 34 recursive calls
+
+
+Fibonacci of 6 is: 8
+   took 0.00 seconds
+   took 59 recursive calls
+
+
+Fibonacci of 7 is: 13
+   took 0.00 seconds
+   took 100 recursive calls
+
+
+Fibonacci of 8 is: 21
+   took 0.00 seconds
+   took 167 recursive calls
+
+
+Fibonacci of 9 is: 34
+   took 0.00 seconds
+   took 276 recursive calls
+
+
+Fibonacci of 10 is: 55
+   took 0.00 seconds
+   took 453 recursive calls
+
+
+Fibonacci of 11 is: 89
+   took 0.00 seconds
+   took 740 recursive calls
+
+
+Fibonacci of 12 is: 144
+   took 0.00 seconds
+   took 1205 recursive calls
+
+
+Fibonacci of 13 is: 233
+   took 0.00 seconds
+   took 1958 recursive calls
+
+
+Fibonacci of 14 is: 377
+   took 0.00 seconds
+   took 3177 recursive calls
+
+
+Fibonacci of 15 is: 610
+   took 0.00 seconds
+   took 5150 recursive calls
+
+
+Fibonacci of 16 is: 987
+   took 0.00 seconds
+   took 8343 recursive calls
+
+
+Fibonacci of 17 is: 1597
+   took 0.00 seconds
+   took 13510 recursive calls
+
+
+Fibonacci of 18 is: 2584
+   took 0.00 seconds
+   took 21871 recursive calls
+
+
+Fibonacci of 19 is: 4181
+   took 0.01 seconds
+   took 35400 recursive calls
+
+
+Fibonacci of 20 is: 6765
+   took 0.01 seconds
+   took 57291 recursive calls
+
+
+Fibonacci of 21 is: 10946
+   took 0.01 seconds
+   took 92712 recursive calls
+
+
+Fibonacci of 22 is: 17711
+   took 0.01 seconds
+   took 150025 recursive calls
+
+
+Fibonacci of 23 is: 28657
+   took 0.01 seconds
+   took 242760 recursive calls
+
+
+Fibonacci of 24 is: 46368
+   took 0.01 seconds
+   took 392809 recursive calls
+
+
+Fibonacci of 25 is: 75025
+   took 0.01 seconds
+   took 635594 recursive calls
+
+
+Fibonacci of 26 is: 121393
+   took 0.04 seconds
+   took 1028429 recursive calls
+
+
+Fibonacci of 27 is: 196418
+   took 0.06 seconds
+   took 1664050 recursive calls
+
+
+Fibonacci of 28 is: 317811
+   took 0.07 seconds
+   took 2692507 recursive calls
+
+
+Fibonacci of 29 is: 514229
+   took 0.04 seconds
+   took 4356586 recursive calls
+
+
+Fibonacci of 30 is: 832040
+   took 0.06 seconds
+   took 7049123 recursive calls
+
+
+Fibonacci of 31 is: 1346269
+   took 0.09 seconds
+   took 11405740 recursive calls
+
+
+Fibonacci of 32 is: 2178309
+   took 0.19 seconds
+   took 18454895 recursive calls
+
+
+Fibonacci of 33 is: 3524578
+   took 0.24 seconds
+   took 29860668 recursive calls
+
+
+Fibonacci of 34 is: 5702887
+   took 0.42 seconds
+   took 48315597 recursive calls
+
+
+Fibonacci of 35 is: 9227465
+   took 0.61 seconds
+   took 78176300 recursive calls
+
+
+Fibonacci of 36 is: 14930352
+   took 1.04 seconds
+   took 126491933 recursive calls
+
+
+Fibonacci of 37 is: 24157817
+   took 1.68 seconds
+   took 204668270 recursive calls
+
+
+Fibonacci of 38 is: 39088169
+   took 2.59 seconds
+   took 331160241 recursive calls
+
+
+Fibonacci of 39 is: 63245986
+   took 4.15 seconds
+   took 535828550 recursive calls
+
+
+Fibonacci of 40 is: 102334155
+   took 6.71 seconds
+   took 866988831 recursive calls
+
