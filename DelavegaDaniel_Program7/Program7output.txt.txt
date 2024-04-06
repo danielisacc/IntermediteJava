@@ -1,0 +1,19 @@
+
+
+*********Developer Information***********
+
+
+Name:    Daniel Isacc Delavega
+
+Course:  ITSE 2317 Intermediate Java Programming
+
+Program: 7
+
+
+*****************************************
+Array integerArray contains: 1 2 3 4 5 
+Array doubleArray contains: 1.1 2.2 3.3 4.4 5.5 6.6 7.7 
+Array characterArray contains: H E L L O 
+Array integerArray contains: 2 3 4 5 
+Array doubleArray contains: 2.2 3.3 4.4 5.5 
+Array characterArray contains: E L L O 
