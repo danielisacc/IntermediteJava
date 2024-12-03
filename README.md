@@ -1,1 +1,1 @@
-The DanielDelavega_Program1 folder contains all the code required to run the java program I created called PieceWorker, which is a subclass of Employee
+This is a collection of my work developing programs using Object Oriented Programming in Java to develop many skills necessary to use the language effectively.
