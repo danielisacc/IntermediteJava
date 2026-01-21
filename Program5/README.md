@@ -41,10 +41,11 @@ Example:
 ### Compile
 ```bash
 javac *.java
-
+```
 ### Run
+```bash
 java Program5
-
+```
 ## Notes/Possible Improvements
 If extending this beyond the course assignment:
 - Use try-with-resources when reading file streams (Files.lines(...)).
